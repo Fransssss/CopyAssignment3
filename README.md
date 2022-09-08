@@ -3,7 +3,9 @@ Simple Class Copy Assignmnt
 
 
 Objectives:
-
+- Declare and define class copy assignment
+- Declare and define class copy constructor
+- Declare and define class destructor
 
 Example output:
 
